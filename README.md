@@ -6,6 +6,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mikiejoe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikiejoe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Mikiejoe/langs)](https://githubtrends.io)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
